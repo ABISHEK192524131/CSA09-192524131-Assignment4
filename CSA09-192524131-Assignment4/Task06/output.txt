@@ -1,0 +1,4 @@
+COMMAND: PS> javac EventRegistrationApp.java
+COMMAND: PS> java EventRegistrationApp
+OUTPUT:
+Campus Event Registration: MVC architecture with JTable model and JDBC persistence.
